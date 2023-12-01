@@ -1,4 +1,5 @@
 import styles from '../styles/css/Python.module.css';
+import Link from 'next/link';
 
 function Python() {
     return (

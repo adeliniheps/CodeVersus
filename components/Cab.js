@@ -1,4 +1,5 @@
 import styles from '../styles/css/Cab.module.css';
+import Link from 'next/link';
 
 function Cab() {
     return (

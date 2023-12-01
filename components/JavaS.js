@@ -1,4 +1,5 @@
 import styles from '../styles/css/Java.module.css';
+import Link from 'next/link';
 
 function JavaS() {
     return (

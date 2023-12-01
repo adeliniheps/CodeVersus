@@ -1,0 +1,67 @@
+
+
+
+.logo{
+    width: 15%;
+    margin-top: 1%;
+    margin-left: 5%;
+}
+.Cab{
+    background-image: linear-gradient( #40288F ,#6500A3, #8127B9 );
+}
+
+.item{
+    text-decoration: none;
+    padding: 1% 1%;
+    
+}
+
+.link:hover{
+    color: #35AC7A;
+    text-decoration: underline;
+    text-decoration-color: #35AC7A;
+    
+
+}
+.link{
+    color: white;
+    text-decoration: overline;
+    text-decoration-color: #35AC7A;
+    font-size:large;
+}
+
+
+
+.User{
+   color: #35D475;
+}
+.User:hover{
+    color:#8127B9;
+}
+
+.dropmenu{
+    background-color:#35AC7A;
+}
+
+.drop:hover{
+    color: white;
+    background-color: #35D475;
+    font-weight: bold;
+}
+
+.drop:active{
+    color: black;
+    background-color: #35D475;
+    font-weight: bold;
+}
+
+.cab2{
+    position: relative;
+    background-color: #347F83;
+    color: white;
+    text-align: center;
+    padding: 0.5% 0;
+    padding-top: 15px;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.5);
+   
+}

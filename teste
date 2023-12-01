@@ -1,0 +1,10 @@
+useEffect(() => {
+        //obtem dados do usuario
+        obtemUsuarios()
+    }, [])
+
+    const obtemUsuarios =  () => {
+        axios.get('http://127.0.0.1:5000/usuarios').then((dados) => {
+            console.log(dados);
+        })
+    }

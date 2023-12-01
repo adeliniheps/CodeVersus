@@ -1,0 +1,90 @@
+.body {
+    background-color: #b3afaf;
+}
+
+.container {
+    background-color: #2e518abb;
+    color: #130a2e;
+}
+
+.txt {
+    background-color: transparent;
+    box-shadow: 0px 0px 20px 0px #347F83 ;
+    padding-top: 1%;
+    text-align: center;
+    font-size: small;
+   
+}
+
+.bloco {
+    background-color: transparent;
+    border-radius: 0px;
+    margin-bottom: 5%;
+
+
+}
+
+.box1 {
+    text-align: center;
+    background-color: #347f83b9;
+    border-radius: 30px;
+    margin: 1% 2%;
+    padding-top: 1%;
+    color: black;
+    margin-top: 2%;
+    box-shadow: 0px 0px 5px 0px #0f0316;
+}
+
+.box2 {
+    text-align: center;
+    margin: 1% 1%;
+    background-color: rgb(0, 8, 0);
+    border-radius: 10px;
+    padding-top: 1.5%;
+    color: white;
+    border: solid 2px #8127B9;
+    margin-top: 2%;
+}
+
+.box3 {
+    margin: 1% 1%;
+    background-color: rgb(0, 8, 0);
+    border-radius: 20px;
+    color: #39d05ce5;
+    text-align: center;
+    padding-top: 1.5%;
+    border: solid 2px #8127B9;
+    margin-top: 2%;
+}
+
+.box4 {
+    text-align: center;
+    background-image: radial-gradient(#8127b9a8, #40288fbb);
+    border-radius: 30px;
+    margin: 1% 4%;
+    padding-top: 1%;
+    color: black;
+    margin-top: 1%;
+    box-shadow: 0px 0px 5px 0px #0f0316;
+    margin-bottom: 2%;
+}
+.final{
+    text-align: center;
+    
+}
+.exe{
+    text-decoration: overline;
+    color:#8127B9;
+}
+.exe:hover{
+    color: #347F83;
+}
+.linha{
+    color: #461166;
+}
+.bloco2{
+    background-color: #6400a350;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    width: 100%;
+}

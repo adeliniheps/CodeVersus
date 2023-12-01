@@ -28,10 +28,10 @@ function JavaS() {
                         <h4>Comando PRINT</h4>
                     </div>
                     <div className={`col-md-4 ${styles.box2}`}>
-                        <h6>print("Hello, World!") </h6>
+                        <h6>print(&quotHello, World!&quot) </h6>
                     </div>
                     <div className={`col-md-4 ${styles.box3}`}>
-                        <p> // Imprime a mensagem na tela</p>
+                        <p> &#47&#47 Imprime a mensagem na tela</p>
                     </div>
                 </div>
                 <div className={`row ${styles}`}>
@@ -50,10 +50,10 @@ function JavaS() {
                         <h4>Comando PRINT</h4>
                     </div>
                     <div className={`col-md-4 ${styles.box2}`}>
-                        <h6>print("Hello, World!") </h6>
+                        <h6>print(&quotHello, World!&quot) </h6>
                     </div>
                     <div className={`col-md-4 ${styles.box3}`}>
-                        <p> // Imprime a mensagem na tela</p>
+                        <p> &#47&#47 Imprime a mensagem na tela</p>
                     </div>
                 </div>
                 <div className={`row ${styles}`}>
@@ -72,10 +72,10 @@ function JavaS() {
                         <h4>Comando PRINT</h4>
                     </div>
                     <div className={`col-md-4 ${styles.box2}`}>
-                        <h6>print("Hello, World!") </h6>
+                        <h6>print(&quotHello, World!&quot) </h6>
                     </div>
                     <div className={`col-md-4 ${styles.box3}`}>
-                        <p> // Imprime a mensagem na tela</p>
+                        <p> &#47&#47 Imprime a mensagem na tela</p>
                     </div>
                 </div>
                 <div className={`row ${styles}`}>

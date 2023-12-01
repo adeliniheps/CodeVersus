@@ -91,7 +91,7 @@ function Python() {
                     <div className={`col-md-12 ${styles}`}>
                         <p>Agora pratique!</p>
                         <h2 className={`text-center ${styles.linha}`}>Exercícios</h2>
-                        <a className={`text-center ${styles.exe}`} href="url">Clique Aqui!!</a>
+                        <Link className={`text-center ${styles.exe}`} href="url">Clique Aqui!!</Link>
                     </div>
                 </div>
             </div>

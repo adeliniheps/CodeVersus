@@ -73,7 +73,7 @@ function Login() {
                         <label for="exampleInputPassword1" class="form-label">Senha</label>
                         <input type="password" class="form-control" id="exampleInputPassword1" />
                     </div>
-                    <a href='https://www.freecodecamp.org/'></a><button type="submit" className={`btn btn-primary ${styles.botao}`}>Logar</button>
+                    <Link href='https://www.freecodecamp.org/'></Link><button type="submit" className={`btn btn-primary ${styles.botao}`}>Logar</button>
                 </form>
             </div>
         </div>
